@@ -1,7 +1,7 @@
 ### Hi there, I'm Eric - aka [Grideruleched]👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/McGrder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/McGrder)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-nguyen-451a0120a/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)(https://www.twitch.tv/mc_grider)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mc_grider)
 ## I'm a fun boy, junior Developer !
 
 - 🌱 I’m currently learning everything 🤣
