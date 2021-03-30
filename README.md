@@ -1,5 +1,5 @@
 ### Hi there, I'm Eric - aka [Grideruleched]👋
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/fr/profiles/1504649518361)
 [![Twitter Follow](https://img.shields.io/twitter/follow/McGrder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/McGrder)
 
 ## I'm a fun boy, junior Developer !
