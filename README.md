@@ -3,7 +3,7 @@
 ## I'm a fun boy, junior Developer !
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023Goals: Continue to improve myself as a full stack web developer
+- 🥅 2023 Goals: Continue to improve myself as a full stack web developer
 - ⚡ Fun fact: I love video games and mangas
 
 ### Languages and Tools:
